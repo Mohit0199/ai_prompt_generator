@@ -51,7 +51,7 @@ st.sidebar.write(
 
 
 # --- Main App ---
-st.title("⚡ Prompt Generator AI")
+st.title("⚡ AI Prompt Generator")
 st.write("Turn simple input into robust, structured prompts for any LLM.")
 
 engine = PromptEngine()
